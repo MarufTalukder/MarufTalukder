@@ -1,9 +1,14 @@
-# Hi there 👋
+# Hi there 👋, 
+##My name is Maruf Hasan Talukder
+## Web Developer
+![Web Developer](https://www.cuinsight.com/wp-content/uploads/2018/05/bigstock-Modern-Design-Digital-Wallpape-234904279-2.jpg)
 
+I am a Front End Web Developer.
 
-**MarufTalukder/MarufTalukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
